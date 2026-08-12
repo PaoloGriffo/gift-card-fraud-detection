@@ -1,6 +1,6 @@
 # Gift Card Fraud Detection — Rule-Based Analysis
 
-!(docs/cover_0.png)
+![Cover](docs/cover_0.png)
 
 A data challenge on gift-card checkout fraud. This project analyses ~98K checkout
 events to characterise what drives fraud and to design an **interpretable,
@@ -27,7 +27,7 @@ This project analyses **98,645 checkout events** (fraud rate **0.56%**) to:
 
 ## Key Results
 
-!(docs/executive_summary.png)
+![Executive summary](docs/executive_summary.png)
 
 - **Fraud is concentrated in newly-created accounts** — median account age of
   **31 days** for fraudulent events vs. **1,265 days** for legitimate ones —
