@@ -70,15 +70,18 @@ See (data/README.md) for the full schema.
 
 ## Project Structure
 
-├── fraud-detection-analysis.ipynb # main analysis: EDA → KPI → rules → stability
+```
+.
+├── fraud-detection-analysis.ipynb   # main analysis: EDA → KPI → rules → stability
 ├── data/
-│ └── README.md # schema and data dictionary (no raw data)
+│   └── README.md                    # schema and data dictionary (no raw data)
 ├── docs/
-│ ├── cover_0.png # cover
-│ └── executive_summary.png # summary of findings
+│   ├── cover_0.png                  # cover
+│   └── executive_summary.png        # summary of findings
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
 
 The full analysis, with all output cells executed, lives in
 [`fraud-detection-analysis.ipynb`](fraud-detection-analysis.ipynb). GitHub renders
