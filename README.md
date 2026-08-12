@@ -42,8 +42,6 @@ This project analyses **98,645 checkout events** (fraud rate **0.56%**) to:
 
 ## Approach
 
-## Approach
-
 1. **Exploratory analysis** — profile fraud across account age, geography, banking
    attributes, and transaction features to identify the strongest signals.
 2. **KPI definition** — formalise *Net Value of Detection* to weigh fraud prevented
